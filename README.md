@@ -5,7 +5,7 @@ Face detection is a computer vision technology that helps to locate/visualize hu
 This is the repository linked to the tutorial with the same name. The idea is to introduce people to the concept of object detection in Python using the OpenCV library and how it can be utilized to perform tasks like Facial detection.
 
 # Blogpost
-**Face Detection with Python using OpenCV**
+##Face Detection with Python using OpenCV
 
 # Installation
 OpenCV-Python supports all the leading platforms like Mac OS, Linux, and Windows. It can be installed in either of the following ways:
