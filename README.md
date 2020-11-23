@@ -18,4 +18,4 @@ Please refer to the detailed documentation here for Windows and here for Mac.
 
 Packages for standard desktop environments (Windows, macOS, almost any GNU/Linux distribution)
 
-run pip install opencv-python if you need only the main modules run pip install opencv-contrib-python if you need both main and contrib modules (check extra modules listing from OpenCV documentation)
+run pip install opencv-python if you need only the main modules run pip install opencv-contrib-python if you need both main and contrib modules (check extra modules listing from [OpenCV documentation](https://docs.opencv.org/master/))
